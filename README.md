@@ -37,3 +37,8 @@ REACT_APP_TMDB_API_KEY=your_api_key_here
 ```
 npm start
 ```
+
+## Project Demo
+To not go through the trouble of deploying the site locally, view 'Movieverse' deployed on Netlify.
+<br>
+https://movieverse-ss.netlify.app
